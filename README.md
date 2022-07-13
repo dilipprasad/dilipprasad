@@ -18,11 +18,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 ## 💻 Framework and Libraries
@@ -37,7 +38,7 @@
 
 ## ☁️ Cloud Services
 <p align="left">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   
 </p>
 
@@ -64,6 +65,22 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+
+<h3 align="left">Awards and Certifications</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/7523b44f-b561-4d18-a9db-539dd8719d74" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100px" alt="dilipprasad" /></a>
+<a href="https://www.credly.com/earner/earned/badge/3f4dffcb-f0ae-4170-b520-54cfbc39e926" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100px" alt="dilipprasad" /></a>
+<a href="https://www.credly.com/earner/earned/badge/2d078fa6-d0e2-4854-826f-ddafe4d13f1a" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100px" alt="dilipprasad" /></a>
+
+<br/>
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dilipprasad&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipprasad&theme=dracula&hide_border=false" />
+</p>  
 
 <!--
 **dilipprasad/dilipprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
