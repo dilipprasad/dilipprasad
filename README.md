@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on designing and developing enterprise grade applications 
+- 🌱 I’m currently learning Data science
+
+
 <!--
 **dilipprasad/dilipprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
