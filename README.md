@@ -9,7 +9,7 @@
 <br/>
 
 ## ✨ Current situation
-- 🔭 I'm currently designing and developing enterprise grade applications for an corporate client
+- 🔭 I'm currently designing and developing enterprise grade applications for an enterprise client
 - 🌱 I’m currently learning & practicing data science
 
 - 🤵‍♂️ Currently i am working from home (Chennai, India)
@@ -79,7 +79,9 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dilipprasad&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipprasad&theme=dracula&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?
+user=dilipprasad&theme=dracula&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipprasad&theme=dracula&hide_border=false&layout=compact" />
 </p>  
 
 <!--
