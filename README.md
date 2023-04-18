@@ -2,7 +2,7 @@
 <h3 align="center">I am a Senior Software Engineer passionate about technologies and gadgets. <b>Full Stack Developer</b> on <b>Microsoft Technologies</b> specialized in <b>C# language</b>.</h3>
 
 ## 🌎 Find me around the web 
-<p align="center"> <a href="https://www.linkedin.com/in/dilip-prasad-jayakumar-38251318/" target="blank"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHYU-zd7miPtQ/profile-displayphoto-shrink_400_400/0/1604061492733?e=1663200000&v=beta&t=4Bww4Aosro6mjOUT2KeLrBvLoiqBcLR8KiA1SjqqTRM" width="150px" alt="dilipprasad" /></a> </p>             
+<p align="center"> <a href="https://www.linkedin.com/in/dilip-prasad-jayakumar-38251318/" target="blank"></a> </p>             
 <p align="center"> <a href="https://www.linkedin.com/in/dilip-prasad-jayakumar-38251318/" target="blank"><img src="mylinkedin-profile.png" alt="dilipprasad" /></a> </p>
 <p align="center"> <a href="mailto:dilipprasad87@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dilipprasad" /></a> </p>
 
