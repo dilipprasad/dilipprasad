@@ -9,8 +9,7 @@
 <br/>
 
 ## ✨ App daily dev card
-<a href="https://app.daily.dev/dilipprasad"><img src="https://api.daily.dev/devcards/51b6e5bb22c647b3ad0ba28363a80d84.png?r=e3t" width="400" alt="dilip prasad's Dev Card"/></a>
-
+<a href="https://app.daily.dev/dilipprasad"><img src="https://github.com/dilipprasad/dilipprasad/blob/main/devcard.svg" width="400" alt="dilip prasad's Dev Card"/></a>
 <br/>
 
 ## ✨ Current situation
