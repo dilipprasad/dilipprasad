@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dilipprasad.github.io/dilipprasad/sitemap.xml
